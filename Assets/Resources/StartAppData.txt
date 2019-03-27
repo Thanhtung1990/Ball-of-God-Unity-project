@@ -1,0 +1,3 @@
+applicationId=201036386
+accountId=110879058
+returnAds=true

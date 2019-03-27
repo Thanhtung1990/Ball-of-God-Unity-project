@@ -1,0 +1,108 @@
+Stage
+Level
+Back
+Congratulations
+Share
+Level >>>
+Unfortunately
+You try to play again
+Play Again
+Do you want to quit game ?
+Yes
+No
+段階
+レベル
+戻る
+おめでとうございます
+シェアする
+レベル >>>
+残念ながら
+貴方は再びプレイしようとする
+再びプレイする
+貴方はゲームを終了したいですか？
+はい
+いいえ
+阶段
+水平
+返回
+恭喜！恭喜！
+分享
+等级 >>>
+抱歉
+你试着再玩一次
+再玩一次
+你想退出游戏吗？
+是
+否
+階段
+水平
+返回
+恭喜！恭喜！
+分享
+等級 >>>
+抱歉
+你試著再玩一次
+再玩一次
+你想退出遊戲嗎？
+是
+否
+मंच
+स्तर
+वापस
+बधाई
+शेयर
+स्तर >>>
+दुर्भाग्य से
+फिर से आपकद खेलना हैं
+फिर खेलना
+क्या आप खेललो छोड़ना चाहते हैं?
+हाँ
+नहीं
+Etapa
+Nivel
+Atrás
+Felicidades
+Compartir
+Siguiente Nivel >>>
+Desafortunadamente
+Intentalo de nuevo
+Juega otra vez
+¿Desea salir del juego?
+Si
+No
+Étape
+Niveau
+Retour
+Félicitation
+Partage
+Niveau Suivant >>>
+Malheureusement
+Essayez encore une fois
+Jouer à Nouveau
+Tu veux sortir
+Oui
+Non
+스테이지
+수준
+뒤로
+축하합니다
+공유하기
+레벨 >>>
+유감스럽습니다
+다시 도전해보세요
+다시 플레이하기
+게임을 그만두고 싶으십니까?
+예
+아니오
+Mức độ
+Cấp độ
+Quay lại
+Xin chúc mừng
+Chia sẻ
+Cấp độ >>>
+Thật đáng tiếc
+Bạn hãy thử chơi lại lần nữa
+Chơi lại
+Bạn có muốn thoát trò chơi ?
+Có
+Không

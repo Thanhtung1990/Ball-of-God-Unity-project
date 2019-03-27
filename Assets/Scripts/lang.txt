@@ -1,0 +1,81 @@
+﻿Easy Mode
+Hard Mode
+Setting
+Make Profile
+Exit
+Sound
+Language
+Back
+Introduction
+簡単なモード
+ハードモード
+設定
+プロフィールを作る
+退出する
+音
+言語
+戻る
+紹介
+简易水平
+高级水平
+设置
+创建个人资料
+退出
+声音
+语言
+返回
+介绍
+簡易水平
+高級水平
+設置
+創建個人資料
+退出
+聲音
+語言
+返回
+介紹
+आसान प्रणाली
+कठोर प्रणाली
+सेटिंग
+
+बाहर जाएं
+ध्वनि
+भाषा
+वापस
+परिचय
+Modo Fácil
+Modo Difíci
+Configuración
+Haz tu perfil
+Salir
+Sonido
+Idioma
+Atrás
+Introducción
+Mode Inférieur
+Mode Supérieur
+Réglage
+
+Sortie
+Son
+Langue
+Retour
+Présentation
+쉬운 모드
+어려운 모드
+설정
+프로필 만들기
+나가기
+소리
+언어
+뒤로
+소개
+Chế độ dễ
+Chế độ khó
+Cài đặt
+Tạo hồ sơ
+Thoát
+Âm lượng
+Ngôn ngữ
+Quay lại
+Giới thiệu
